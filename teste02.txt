@@ -1,2 +1,2 @@
-teste
-nova linha de código ()
+linha 1 de código "Teste de Merge"
+linha 2 de código função()
