@@ -1,2 +1,2 @@
-linha de código 1 "Teste de Conflito Merge"
-linha de código 2 função merge(teste)
+linha de código 1 "Teste de Conflito Merge2"
+linha de código 2 função merge(teste2)
